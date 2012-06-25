@@ -1,0 +1,17 @@
+******************************************************************
+*
+* Pronosticador de asignación dinámica para comparación de 
+* simulaciones de tráfico.
+*
+* Autor: E. G. Baquela - http://www.egbaquela.com.ar
+* Fecha de creación: 2012-06-24
+*
+* Trabajo para tesis de Doctorado en Informática
+* Directora de tesis: Olivera, Ana Carolina
+* Co-Directora de tesis: Cerrano, Marta Liliana
+*
+******************************************************************
+
+Proyecto para construir algoritmos pronosticadores de resultados 
+de algoritmos de asignación dinámica, a fin de comparar sistemas 
+de tráfico.
